@@ -10,9 +10,6 @@
 
 <br/>
 
-## Author:
-
-
 <br/>
 
 ## Available Scripts:
